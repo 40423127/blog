@@ -315,7 +315,7 @@ wordpress的連結:&lt;a href="https://wordpress-nfu40423127.rhcloud.com"&gt;htt
 
 CMSimply的連結:&lt;a href="https://cmsimply-nfu40423127.rhcloud.com/get_page?heading=40423127%20%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A"&gt;https://cmsimply-nfu40423127.rhcloud.com/get_page?heading=40423127%20%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A&lt;/a&gt;
 
-1. 網路線製作流程紀錄，至少完成一條 568b 網路線及一條跳線並拍攝測試成功過程影片
+網路線製作流程紀錄，至少完成一條 568b 網路線及一條跳線並拍攝測試成功過程影片
 
 網路線成品
 
@@ -335,14 +335,14 @@ CMSimply的連結:&lt;a href="https://cmsimply-nfu40423127.rhcloud.com/get_page?
 &lt;iframe src="https://player.vimeo.com/video/164583672" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/164583672"&gt;00009&lt;/a&gt; from &lt;a href="https://vimeo.com/user46458423"&gt;Fan chang zong&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-2. 認領一段系上網路配置，完成實體拍照上傳、完成網路配置繪圖、cat 6 網路線查驗替換及執行過程討論
+認領一段系上網路配置，完成實體拍照上傳、完成網路配置繪圖、cat 6 網路線查驗替換及執行過程討論
 
 &lt;iframe src="http://i.imgur.com/oaHxiZH.jpg" width="402" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-3. 完成 Raspberry pi 3 model b 的虛擬規劃與 cadlab 中的應用流程介紹
+完成 Raspberry pi 3 model b 的虛擬規劃與 cadlab 中的應用流程介紹
 
 
-4. 利用三個按鈕將上述內容在 pelican 與 WordPress 中以同步處理
+利用三個按鈕將上述內容在 pelican 與 WordPress 中以同步處理
 
 
 
