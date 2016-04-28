@@ -38,6 +38,7 @@
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
+<v t="leo.20160427231359.1"><vh>@clean 40423127期中報告.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -77,7 +78,7 @@ g.es("admin pelican 執行完畢")
 <t tx="leo.20160408095111.1"></t>
 <t tx="leo.20160408095210.1"></t>
 <t tx="leo.20160408095210.2">@language python
-＃new-to-wp button
+#new-to-wp button
 #coding: utf-8
 import xmlrpc.client
 import datetime
@@ -106,8 +107,8 @@ def get_cat_tag_content(data):
 os.environ['TZ'] = 'Asia/Taipei'
  
 #################################
-filepath = "/your/wordpress/username/and/passwrod.txt"
-wordpress = "your.wordpress.site.domain"
+filepath = "y:/tmp/password.txt"
+wordpress = "wordpress-nfu40423127.rhcloud.com/"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
@@ -186,8 +187,8 @@ def get_cat_tag_content(data):
 os.environ['TZ'] = 'Asia/Taipei'
  
 #################################
-filepath = "/your/wordpress/username/and/passwrod.txt"
-wordpress = "your.wordpress.site.domain"
+filepath = "y:/tmp/password.txt"
+wordpress = "wordpress-nfu40423127.rhcloud.com/"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
@@ -240,8 +241,8 @@ import xmlrpc.client
 import html
  
 #################################
-filepath = "/your/wordpress/username/and/passwrod.txt"
-wordpress = "your.wordpress.site.domain"
+filepath = "y:/tmp/password.txt"
+wordpress = "wordpress-nfu40423127.rhcloud.com/"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
@@ -302,5 +303,53 @@ g.es("資料已經取回")
 </t>
 <t tx="leo.20160408095413.1"></t>
 <t tx="leo.20160408095449.1"></t>
+<t tx="leo.20160427231359.1">@language md
+Title: 40423127期中報告
+Category: Uncategorized
+Tags: CADLAB, Ｍanual, MCAD
+Author: admin
+@others
+Github連結:&lt;a href="http://40423127.github.io/blog/post/index.html"&gt;http://40423127.github.io/blog/post/index.html&lt;/a&gt;
+
+wordpress的連結:&lt;a href="https://wordpress-nfu40423127.rhcloud.com"&gt;https://wordpress-nfu40423127.rhcloud.com&lt;/a&gt;
+
+CMSimply的連結:&lt;a href="https://cmsimply-nfu40423127.rhcloud.com/get_page?heading=40423127%20%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A"&gt;https://cmsimply-nfu40423127.rhcloud.com/get_page?heading=40423127%20%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A&lt;/a&gt;
+
+1. 網路線製作流程紀錄，至少完成一條 568b 網路線及一條跳線並拍攝測試成功過程影片
+
+網路線成品
+
+&lt;iframe src="http://i.imgur.com/dQj0PdR.jpg" width="270" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+網路線測試
+
+&lt;iframe src="https://player.vimeo.com/video/164580564" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/164580564"&gt;MAH00626&lt;/a&gt; from &lt;a href="https://vimeo.com/user46458423"&gt;Fan chang zong&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+跳線成品
+
+&lt;iframe src="http://i.imgur.com/mwMQhZx.jpg" width="270" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+跳線測試
+
+&lt;iframe src="https://player.vimeo.com/video/164583672" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/164583672"&gt;00009&lt;/a&gt; from &lt;a href="https://vimeo.com/user46458423"&gt;Fan chang zong&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+2. 認領一段系上網路配置，完成實體拍照上傳、完成網路配置繪圖、cat 6 網路線查驗替換及執行過程討論
+
+&lt;iframe src="http://i.imgur.com/oaHxiZH.jpg" width="402" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+3. 完成 Raspberry pi 3 model b 的虛擬規劃與 cadlab 中的應用流程介紹
+
+
+4. 利用三個按鈕將上述內容在 pelican 與 WordPress 中以同步處理
+
+
+
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="http://40423127.github.io/blog"&gt;http://40423127.github.io/blog&lt;/a&gt;
+</t>
 </tnodes>
 </leo_file>
